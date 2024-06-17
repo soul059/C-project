@@ -1,2 +1,2 @@
-# C-project
-here are some of my C programming language projects
+# rock-paper-scissors
+here is the rock paper scissors code
