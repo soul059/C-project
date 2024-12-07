@@ -1,3 +1,6 @@
+# rock-paper-scissors
+here is the rock paper scissors code
+
 # tic-tac-toe
 
 this is a game you can play with num pad
